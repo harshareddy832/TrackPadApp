@@ -1,8 +1,8 @@
-# Premium Trackpad - iPhone to Mac Wireless Input Solution
+# Trackpad - iPhone to Mac Wireless Input Solution
 
 ## 🎯 Project Overview
 
-**Premium Trackpad** is a sophisticated wireless input solution that transforms an iPhone into a professional-grade trackpad and keyboard for Mac computers. The application provides seamless, low-latency communication between iOS and macOS, offering a complete replacement for physical input devices with advanced gesture recognition and haptic feedback.
+**Trackpad** is a sophisticated wireless input solution that transforms an iPhone into a professional-grade trackpad and keyboard for Mac computers. The application provides seamless, low-latency communication between iOS and macOS, offering a complete replacement for physical input devices with advanced gesture recognition and haptic feedback.
 
 ## 🚀 Key Features
 
@@ -89,7 +89,7 @@ Key Features:
 
 ## 🚀 Release Plan
 
-**Premium Trackpad** is currently in final development phase with plans for **App Store release** upon completion. The application has achieved production-ready stability and performance, with comprehensive testing across multiple iOS and macOS versions.
+**Trackpad** is currently in final development phase with plans for **App Store release** upon completion. The application has achieved production-ready stability and performance, with comprehensive testing across multiple iOS and macOS versions.
 
 ## 📊 Technical Achievements
 
